@@ -1,0 +1,1 @@
+This repo contains the iam policy and bucket policy for my YouTube tutorial on how to access an AWS S3 bucket in a different account (https://www.youtube.com/watch?v=Ob1zYHjqNwo).
